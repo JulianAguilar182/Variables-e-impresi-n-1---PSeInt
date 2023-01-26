@@ -1,7 +1,8 @@
 # Variables_e_impresion_n1_PSeInt
 
 Desarrollo de taller variables e impresion #1 
-En este encontraremos 5 scripts, correspondientes a cada uno de los puntos señalados en el taller
+
+En este repositorio encontraremos 5 scripts, correspondientes a cada uno de los puntos señalados en el taller
 
 Se anexa:
 - Archivo .ZIP con los 5 scripts.
